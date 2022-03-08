@@ -33,9 +33,7 @@ function App() {
       <img className="air" src="https://therealdeal.com/wp-content/uploads/2019/09/airbnb.png" alt="air" />
       <div className="container">
        <Routes>
-        <Route 
-          exact 
-          path="/"
+        <Route exact path="/"
 
           element={
             <>
